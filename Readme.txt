@@ -1,1 +1,0 @@
-Ransomware en Python
